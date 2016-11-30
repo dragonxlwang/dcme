@@ -1,0 +1,24 @@
+{
+  "uploadOnSave": true,
+  "hostname": "timan101.cs.illinois.edu",
+  "port": "22",
+  "target": "/home/xwang95/workspace/s3e",
+  "username": "xwang95",
+  "transport": "scp",
+  "keyfile": "Users/xiaolong/.ssh/id_rsa",
+  "ignore": [
+    ".git/**"
+  ],
+  "deleteLocal": false,
+  "uploadMirrors": [
+    {
+      "uploadOnSave": true,
+      "hostname": "timan103.cs.illinois.edu",
+      "port": "22",
+      "target": "/home/xwang95/workspace/s3e",
+      "username": "xwang95",
+      "transport": "scp",
+      "keyfile": "Users/xiaolong/.ssh/id_rsa"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+
+/Users/xiaolong/Dropbox/workspace/s3e
+  1  a   "vectors/dcme.c"               line 168
+  2      "vectors/w2v.c"                line 0
+  3      "vectors/variables.c"          line 0
+  4      "vectors/peek.c"               line 0
+  5      "vectors/train.c"              line 0
+  6      "vectors/model.c"              line 0
+  7      "vectors/constants.c"          line 0
+  8  a   "classify/dcme.c"              line 1
+  9  a   "classify/w2v.c"               line 147
+ 10  a   "classify/nsme.c"              line 94
+ 11      "classify/helper.c"            line 0
+ 12  a   "classify/variables.c"         line 17
+ 13  a   "classify/train.c"             line 32
+ 14  h   "classify/weight.c"            line 78
+ 15  a   "classify/constants.c"         line 7
+ 16      "classify/test.c"              line 0
+ 17 #h   "utils/util_num.c"             line 389
+ 18  a   "utils/util_misc.c"            line 1
+ 19      "utils/util_text.c"            line 0
+ 20      "eval/eval_word_distance.c"    line 0
+ 21      "eval/eval_question_accuracy.c" line 0
+ 22      "eval/eval_msrpc.c"            line 0
+ 23      "eval/eval_load_model.c"       line 0
+ 24      "eval/eval_peek.c"             line 0
+ 25      "eval/eval_classify.c"         line 0
+ 26  a   "eval/eval_fit_test.c"         line 0
+ 27      "vectors.sh"                   line 0
+ 28  a   "classify.sh"                  line 28
+ 29  a   "test/test.c"                  line 16
+ 42 %a   "note.txt"                     line 1

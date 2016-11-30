@@ -1,0 +1,16 @@
+## exclude by file type
+*.txt
+*.swp
+*.swo
+*.pyc
+*.zip
+*.tar.gz
+*.gz
+*.result
+tags
+
+## exclude special cases
+[Tt]est/
+[Bb]in/
+[Tt]mp/
+[Dd]ebug/
